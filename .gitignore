@@ -105,3 +105,4 @@ ENV/
 
 # app
 app/static/**/bootstrap*
+app/static/img/process/*
